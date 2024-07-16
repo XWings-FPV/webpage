@@ -1,10 +1,9 @@
 ---
 layout: home
 header:
-  title: YOUR FAVORITE SOURCE OF FREE BOOTSTRAP THEMES
+  title: We are XWings FPV - Drone Racing Team
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    We're the Universidad Nacional de Colombia Drone Racing Team, a joint project by IEEE UN, CEIMTUN-RAS and AESS UN.
   action: # action button is optional
     label: Find Out More
     url: '#about'
