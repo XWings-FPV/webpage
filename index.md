@@ -50,18 +50,18 @@ sections:
     #section_id: portfolio
     #background_style: bg-dark
     projects:
-      - title: Project 1
-        text: This is a very short project description.
+      - title: UNRobot
+        text: The competition organized by CEIMTUN-RAS at UNAL.
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
         url: '#'
-      - title: Project 2
+      - title: Electrobot
         text: This is a very short project description.
         icon: 2.jpg
         url: '#'
-      - title: Project 3
+      - title: MultiGP
         text: This is a very short project description.
         icon: 3.jpg
         url: '#'
