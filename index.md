@@ -91,28 +91,60 @@ sections:
     title: Our Crew!
     background_style: bg-info text-white
     members:
-      - title: Christina M. Aponte
-        text: Singer and Songwriter
+      - title: Alejandro Ojeda
+        text: Pilot
         image: assets/img/members/person1.jpg
         url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
+      - title: Dylan Ortiz
+        text: Pilot
         image: assets/img/members/person2.jpg
         url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
+      - title: Camilo Acuña
+        text: Technical Lead
         image: assets/img/members/person3.jpg
         url: '#'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
+      - title: Juan Pablo Vallejo
+        text: Technical Lead
         image: assets/img/members/person5.jpg
         url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
+      - title: Johel Prada
+        text: Pilot
         image: assets/img/members/person6.jpg
         url: '#'
-      - title: Ella P. Walter
-        text: PR.
+      - title: Jaime Yara
+        text: Technical Support
+        image: assets/img/members/person7.jpg
+        url: '#'
+      - title: Juan Jose Losada Perdomo
+        text: Technical Support
+        image: assets/img/members/person7.jpg
+        url: '#'
+      - title: Angel Avendaño
+        text: Pilot
+        image: assets/img/members/person7.jpg
+        url: '#'
+      - title: Gustavo Berdugo
+        text: Pilot
+        image: assets/img/members/person7.jpg
+        url: '#'
+      - title: Cristian Martin
+        text: Pilot
+        image: assets/img/members/person7.jpg
+        url: '#'
+      - title: Juseph Useche
+        text: Pilot
+        image: assets/img/members/person7.jpg
+        url: '#'
+      - title: Libardo Carreño
+        text: Pilot
+        image: assets/img/members/person7.jpg
+        url: '#'
+      - title: Santiago Cadena
+        text: Technical Support
+        image: assets/img/members/person7.jpg
+        url: '#'
+      - title: David Santiago Sandoval
+        text: Pilot
         image: assets/img/members/person7.jpg
         url: '#'
 
