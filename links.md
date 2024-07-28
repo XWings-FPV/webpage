@@ -13,7 +13,7 @@ sections:
 - type: address.html
   section_id: address
   title: Meeting Place
-  map: https://www.google.com/maps/place/Sede+Bogot%C3%A1+-+Universidad+Nacional+de+Colombia/@4.6359018,-74.0858771,16.33z/data=!4m16!1m9!3m8!1s0x8e3f9bd14943c13b:0x3de530667d9ff6b0!2sSede+Bogot%C3%A1+-+Universidad+Nacional+de+Colombia!8m2!3d4.6363615!4d-74.0833047!9m1!1b1!16zL20vMDRqMGxu!3m5!1s0x8e3f9bd14943c13b:0x3de530667d9ff6b0!8m2!3d4.6363615!4d-74.0833047!16zL20vMDRqMGxu?hl=es&entry=ttu
+  map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3976.2242327746623!2d-74.0858771!3d4.6359018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb696cd67a04b98e9!2sFacultad+De+Ingenieria+-+UNIVERSIDAD+NACIONAL+DE+COLOMBIA!5e0!3m2!1ses!2sbg!4v1690475641347!5m2!1ses!2sbg
   address:
     title: Address
     text: >
