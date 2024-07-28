@@ -188,4 +188,10 @@ sections:
       icon: bi-facebook
       url: '#'
 
+  - type: links.html
+    section_id: links
+    title: Project Links
+    text: >-
+      Here there are some projects done by our group members:
+      
 ---

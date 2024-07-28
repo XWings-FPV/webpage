@@ -44,5 +44,4 @@ sections:
 - type: index_links.html
   section_id: index_links
   file: index_links.html
-
 ---
