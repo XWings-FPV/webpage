@@ -12,48 +12,90 @@ menus:
 sections:
 - type: address.html
   section_id: address
-  title: Lugar de Reunión 
-  map: https://maps.app.goo.gl/wdATEFFUPBfPUNDb9
+  title: You are welcome!
+  map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.1784803899586!2d-71.56614568458906!3d42.338717979188324!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6335220b7c08850a!2sMarlborough%20District%20Court!5e0!3m2!1sen!2sbg!4v1583193778570!5m2!1sen!2sbg
   address:
     title: Address
     text: >
-      Ave Cra 30 #45-3,<br/>
-      Bogotá,<br/>
-      Colombia  
+      45 Williams St,<br/>
+      Marlborough, MA 01752,<br/>
+      United States
   phone:
     title: Phones
     text: >
-      +57 312 5164057, Alejandro Ojeda (CEO)<br/>
-      +57 302 2189408, Christian Hoffman (CTO)
+      +1 (202) 555-014<br/>
+      +1 (202) 555-015
 - type: paragraph.html
   section_id: help
-  title: Projects
+  title: Get some help!
   text: >+
-    Here are there some projecs done by ourselves: 
+    There is a quick reference and showscase of Markdown Syntax Here:
 
-    * [Automatic Time Racing Dashboard - Liftoff](LINK DE LOOKERSTUDIO).
+    * [Markdown Syntax Here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-    * [1S LiPo battery charger adapter](https://es.linkedin.com/posts/dacunar_x-wings-btl-a4-v10-adaptador-para-cargador-activity-7195534585336582144-T63z).
+    * [John Gruber's original spec](http://daringfireball.net/projects/markdown/).
 
-   
+    * [Github-flavored Markdown info page](http://github.github.com/github-flavored-markdown/).
 
 - type: paragraph.html
   section_id: more-to-come
-  title: Projects Description
+  title: No HTML!
 #  background_style: bg-info
 #  text_style: text-left text-white
   actions:
-   - title: Initial info!
+   - title: Markdown is fun!
      class: btn-info
      url: '#'
   text: >+
-    ### Automatic Time Racing Dashboard - Liftoff
+    ### Typographic replacements
 
-    This project includes an automation tool that reads data from any race in Liftoff. Using a Google API, the data is extracted, processed, and visualized on a Looker Studio dashboard. This allows for statistical analysis on an individual pilot basis and by track type, as well as comprehensive analysis of all races.
+    Enable typographer option to see result.
 
-    ### 1S LiPo battery charger adapter
+    (c) (C) (r) (R) (tm) (TM) (p) (P) +-
 
-    In collaboration with the X-Wings FPV Drone Racing Team, a new adapter for 1S batteries has been developed over the past few months. The chargers currently in use do not offer a Storage mode option for the 1S batteries used by Tiny drones, which significantly reduces their lifespan. Noting that the available market options were prohibitively expensive, the team decided to create their own technology. This innovative solution aims to extend battery life and is now available as an initial prototype.
+    test.. test... test..... test?..... test!....
+
+    !!!!!! ???? ,,  -- ---
+
+    "Smartypants, double quotes" and 'single quotes'
 
 
+    ### Emphasis
 
+    **This is bold text**
+
+    __This is bold text__
+
+    *This is italic text*
+
+    _This is italic text_
+
+    ~~Strikethrough~~
+
+
+    ### Blockquotes
+
+    > Blockquotes can also be nested...
+    >> ...by using additional greater-than signs right next to each other...
+    > > > ...or with spaces between arrows.
+
+    ### Lists
+
+    Unordered
+
+    + Create a list by starting a line with `+`, `-`, or `*`
+    + Sub-lists are made by indenting 2 spaces:
+    - Marker character change forces new list start:
+      * Ac tristique libero volutpat at
+      + Facilisis in pretium nisl aliquet
+      - Nulla volutpat aliquam velit
+    + Very easy!
+
+    Ordered
+
+    1. Lorem ipsum dolor sit amet
+    2. Consectetur adipiscing elit
+    3. Integer molestie lorem at massa
+
+---
+Here goes some raw markdown content.
