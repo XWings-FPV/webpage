@@ -12,22 +12,7 @@
     <div class="containter swiper">
         <div class="slider-wrapper">
             <div class="card-list swiper-wrapper">
-            {%for project in projects%}
-                <div class="card-item swiper-slide">
-                    <div class="flip-card-inner">
-                        <div class="flip-card-front">
-                            <h2>{{project.title}}</h2>
-                            <img src="{{project.image}}" alt="Project Image" class="project-image">
-                            <p class="project-author">{{project.author}}</p>
-                        </div>
-                        <div class="flip-card-back">
-                            <h2>{{project.title}}</h2>
-                            <p>{{project.text}}</p>
-                            <button href="{{project.url}}" class="message-button">Go</button>
-                        </div>
-                    </div>
-                </div> 
-            {% endfor%}
+
         </div>
         <div class="swiper-pagination"></div>
         <div class="swiper-slide-button swiper-button-prev"></div>
