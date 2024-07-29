@@ -35,25 +35,6 @@ sections:
 
     * [1S LiPo battery charger adapter](https://es.linkedin.com/posts/dacunar_x-wings-btl-a4-v10-adaptador-para-cargador-activity-7195534585336582144-T63z).
 
-- type: links.html
-  section_id: links
-  file: links.html
-  title: Projects
-  projects:
-    - name: Automatic Time Racing Dashboard - Liftoff
-      author: Santiago, Juan Pablo, Alejandro
-      text: This project includes an automation tool that reads data from any race in Liftoff. Using a Google API, the data is extracted, processed, and visualized on a Looker Studio dashboard. This allows for statistical analysis on an individual pilot basis and by track type, as well as comprehensive analysis of all races.
-      image: images/dashboard.png
-      url: '#'
-    - name: 1S LiPo battery charger adapter
-      author: Davinson Camilo
-      text: In collaboration with the X-Wings FPV Drone Racing Team, a new adapter for 1S batteries has been developed over the past few months. The chargers currently in use do not offer a Storage mode option for the 1S batteries used by Tiny drones, which significantly reduces their lifespan. Noting that the available market options were prohibitively expensive, the team decided to create their own technology. This innovative solution aims to extend battery life and is now available as an initial prototype.
-      image: images/pcb.png
-      url: '#'
-    - name: 1S LiPo battery charger adapter
-      author: Davinson Camilo
-      text: In collaboration with the X-Wings FPV Drone Racing Team, a new adapter for 1S batteries has been developed over the past few months. The chargers currently in use do not offer a Storage mode option for the 1S batteries used by Tiny drones, which significantly reduces their lifespan. Noting that the available market options were prohibitively expensive, the team decided to create their own technology. This innovative solution aims to extend battery life and is now available as an initial prototype.
-      image: images/pcb.png
-      url: '#'
+
 
 ---
