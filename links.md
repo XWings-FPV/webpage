@@ -163,31 +163,5 @@ sections:
     <div class="swiper-slide-button swiper-button-prev"></div>
     <div class="swiper-slide-button swiper-button-next"></div>
 </div>
-<script>
-        const swiper = new Swiper('.slider-wrapper', {
-        loop: true,
-        grabCursor:true,
-        spaceBetween:30,
-        // If we need pagination
-        pagination: {
-          el: '.swiper-pagination',
-          clickable:true,
-          dynamicBullets:true
-        },
-        navigation: {
-          nextEl: '.swiper-button-next',
-          prevEl: '.swiper-button-prev',
-        },
-        //Responsive breakpoints
-        breakpoints:{
-            0:{
-                slidesPerView:1
-            },
-            768:{
-                slidesPerView:2
-            }
-        }
-      });
-    </script>
 <!-- <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script> -->
 <!-- <script src="scripts.js"></script> -->
