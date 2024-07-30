@@ -168,7 +168,6 @@ sections:
         text: >-
           We started to gather like minded people and started our stategies
           and future plans to them. As a result , interested people joined us!
-
   - type: contact.html
     section_id: contacts
     title: Let's Get In Touch!
@@ -189,5 +188,5 @@ sections:
       url: '#'  
   - type: links.html
     section_id: links
-    
+
 ---
