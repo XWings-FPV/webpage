@@ -186,6 +186,8 @@ sections:
       url: '#'
     - title: Facebook
       icon: bi-facebook
-      url: '#'
-
+      url: '#'  
+  - type: links.html
+    section_id: links
+    
 ---
