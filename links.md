@@ -115,79 +115,80 @@ sections:
   }
 </style>
 <div class="containter swiper">
-        <div class="slider-wrapper">
-            <div class="card-list swiper-wrapper">
-                <div class="card-item swiper-slide">
-                    <div class="flip-card-inner">
-                        <div class="flip-card-front">
-                            <h2>Automatic Time Racing Dashboard - Liftoff</h2>
-                            <img src="images/dashboard.png" alt="Project Image" class="project-image">
-                            <p class="project-author">Santiago, Juan Pablo, Alejandro</p>
-                        </div>
-                        <div class="flip-card-back">
-                            <h2>Automatic Time Racing Dashboard - Liftoff</h2>
-                            <p>This project includes an automation tool that reads data from any race in Liftoff. Using a Google API, the data is extracted, processed, and visualized on a Looker Studio dashboard. This allows for statistical analysis on an individual pilot basis and by track type, as well as comprehensive analysis of all races.</p>
-                            <button class="message-button">Go</button>
-                        </div>
+    <div class="slider-wrapper">
+        <div class="card-list swiper-wrapper">
+            <div class="card-item swiper-slide">
+                <div class="flip-card-inner">
+                    <div class="flip-card-front">
+                        <h2>Automatic Time Racing Dashboard - Liftoff</h2>
+                        <img src="images/dashboard.png" alt="Project Image" class="project-image">
+                        <p class="project-author">Santiago, Juan Pablo, Alejandro</p>
                     </div>
-                </div> 
-                <div class="card-item swiper-slide">
-                    <div class="flip-card-inner">
-                        <div class="flip-card-front">
-                            <h2>1S LiPo battery charger adapter</h2>
-                            <img src="images/pcb.png" alt="Project Image" class="project-image">
-                            <p class="project-author">Davinson Camilo</p>
-                        </div>
-                        <div class="flip-card-back">
-                            <p>In collaboration with the X-Wings FPV Drone Racing Team, a new adapter for 1S batteries has been developed over the past few months. The chargers currently in use do not offer a Storage mode option for the 1S batteries used by Tiny drones, which significantly reduces their lifespan. Noting that the available market options were prohibitively expensive, the team decided to create their own technology. This innovative solution aims to extend battery life and is now available as an initial prototype.</p>
-                            <button class="message-button">Go</button>
-                        </div>
+                    <div class="flip-card-back">
+                        <h2>Automatic Time Racing Dashboard - Liftoff</h2>
+                        <p>This project includes an automation tool that reads data from any race in Liftoff. Using a Google API, the data is extracted, processed, and visualized on a Looker Studio dashboard. This allows for statistical analysis on an individual pilot basis and by track type, as well as comprehensive analysis of all races.</p>
+                        <button class="message-button">Go</button>
                     </div>
-                </div> 
-                <div class="card-item swiper-slide">
-                    <div class="flip-card-inner">
-                        <div class="flip-card-front">
-                            <h2>1S LiPo battery charger adapter</h2>
-                            <img src="images/pcb.png" alt="Project Image" class="project-image">
-                            <p class="project-author">Davinson Camilo</p>
-                        </div>
-                        <div class="flip-card-back">
-                            <p>In collaboration with the X-Wings FPV Drone Racing Team, a new adapter for 1S batteries has been developed over the past few months. The chargers currently in use do not offer a Storage mode option for the 1S batteries used by Tiny drones, which significantly reduces their lifespan. Noting that the available market options were prohibitively expensive, the team decided to create their own technology. This innovative solution aims to extend battery life and is now available as an initial prototype.</p>
-                            <button class="message-button">Go</button>
-                        </div>
+                </div>
+            </div> 
+            <div class="card-item swiper-slide">
+                <div class="flip-card-inner">
+                    <div class="flip-card-front">
+                        <h2>1S LiPo battery charger adapter</h2>
+                        <img src="images/pcb.png" alt="Project Image" class="project-image">
+                        <p class="project-author">Davinson Camilo</p>
                     </div>
-                </div> 
+                    <div class="flip-card-back">
+                        <p>In collaboration with the X-Wings FPV Drone Racing Team, a new adapter for 1S batteries has been developed over the past few months. The chargers currently in use do not offer a Storage mode option for the 1S batteries used by Tiny drones, which significantly reduces their lifespan. Noting that the available market options were prohibitively expensive, the team decided to create their own technology. This innovative solution aims to extend battery life and is now available as an initial prototype.</p>
+                        <button class="message-button">Go</button>
+                    </div>
+                </div>
+            </div> 
+            <div class="card-item swiper-slide">
+                <div class="flip-card-inner">
+                    <div class="flip-card-front">
+                        <h2>1S LiPo battery charger adapter</h2>
+                        <img src="images/pcb.png" alt="Project Image" class="project-image">
+                        <p class="project-author">Davinson Camilo</p>
+                    </div>
+                    <div class="flip-card-back">
+                        <p>In collaboration with the X-Wings FPV Drone Racing Team, a new adapter for 1S batteries has been developed over the past few months. The chargers currently in use do not offer a Storage mode option for the 1S batteries used by Tiny drones, which significantly reduces their lifespan. Noting that the available market options were prohibitively expensive, the team decided to create their own technology. This innovative solution aims to extend battery life and is now available as an initial prototype.</p>
+                        <button class="message-button">Go</button>
+                    </div>
+                </div>
+            </div> 
         </div>
-        <div class="swiper-pagination"></div>
-        <div class="swiper-slide-button swiper-button-prev"></div>
-        <div class="swiper-slide-button swiper-button-next"></div>
-        <script>
-                const swiper = new Swiper('.slider-wrapper', {
-                loop: true,
-                grabCursor:true,
-                spaceBetween:30,
-                // If we need pagination
-                pagination: {
-                  el: '.swiper-pagination',
-                  clickable:true,
-                  dynamicBullets:true
-                },
-                navigation: {
-                  nextEl: '.swiper-button-next',
-                  prevEl: '.swiper-button-prev',
-                },
-                //Responsive breakpoints
-                breakpoints:{
-                    0:{
-                        slidesPerView:1
-                    },
-                    768:{
-                        slidesPerView:2
-                    }
-                }
-              });
-        </script>
-    </div>
+    </div>   
+    <div class="swiper-pagination"></div>
+    <div class="swiper-slide-button swiper-button-prev"></div>
+    <div class="swiper-slide-button swiper-button-next"></div>
+    <script>
+        const swiper = new Swiper('.slider-wrapper', {
+        loop: true,
+        grabCursor:true,
+        spaceBetween:30,
+        // If we need pagination
+        pagination: {
+          el: '.swiper-pagination',
+          clickable:true,
+          dynamicBullets:true
+        },
+        navigation: {
+          nextEl: '.swiper-button-next',
+          prevEl: '.swiper-button-prev',
+        },
+        //Responsive breakpoints
+        breakpoints:{
+            0:{
+                slidesPerView:1
+            },
+            768:{
+                slidesPerView:2
+            }
+        }
+      });
+    </script>
+</div>
 
 <!-- <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script> -->
 <!-- <script src="scripts.js"></script> -->
