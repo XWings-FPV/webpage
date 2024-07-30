@@ -47,7 +47,7 @@ sections:
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: url("images/XWingsLogoWhite.jpg") #030728 no-repeat center;
+    background: url("assets/img/links/XWingsLogoWhite.jpg") #030728 no-repeat center;
 }
 .slider-wrapper{
     overflow: hidden;
