@@ -121,7 +121,7 @@ sections:
                 <div class="flip-card-inner">
                     <div class="flip-card-front">
                         <h2>Automatic Time Racing Dashboard - Liftoff</h2>
-                        <img src="images/dashboard.png" alt="Project Image" class="project-image">
+                        <img src="assets/img/links/dashboard.png" alt="Project Image" class="project-image">
                         <p class="project-author">Santiago, Juan Pablo, Alejandro</p>
                     </div>
                     <div class="flip-card-back">
@@ -135,7 +135,7 @@ sections:
                 <div class="flip-card-inner">
                     <div class="flip-card-front">
                         <h2>1S LiPo battery charger adapter</h2>
-                        <img src="images/pcb.png" alt="Project Image" class="project-image">
+                        <img src="assets/img/links/pcb.png" alt="Project Image" class="project-image">
                         <p class="project-author">Davinson Camilo</p>
                     </div>
                     <div class="flip-card-back">
@@ -148,7 +148,7 @@ sections:
                 <div class="flip-card-inner">
                     <div class="flip-card-front">
                         <h2>1S LiPo battery charger adapter</h2>
-                        <img src="images/pcb.png" alt="Project Image" class="project-image">
+                        <img src="assets/img/links/pcb.png" alt="Project Image" class="project-image">
                         <p class="project-author">Davinson Camilo</p>
                     </div>
                     <div class="flip-card-back">
@@ -162,7 +162,8 @@ sections:
     <div class="swiper-pagination"></div>
     <div class="swiper-slide-button swiper-button-prev"></div>
     <div class="swiper-slide-button swiper-button-next"></div>
-    <script>
+</div>
+<script>
         const swiper = new Swiper('.slider-wrapper', {
         loop: true,
         grabCursor:true,
@@ -188,7 +189,5 @@ sections:
         }
       });
     </script>
-</div>
-
 <!-- <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script> -->
 <!-- <script src="scripts.js"></script> -->
