@@ -68,7 +68,7 @@ sections:
       - title: Project 4
         text: This is a very short project description.
         icon: 4.jpg
-        url: '#'
+        url: '#'   
       - title: Project 5
         text: This is a very short project description.
         icon: 5.jpg
@@ -87,13 +87,13 @@ sections:
         class: btn-light
 
   - type: members.html
-    section_id: members
+    section_id: members    
     title: Our Crew!
     background_style: bg-info text-white
     members:
       - title: Alejandro Ojeda
-        text: Pilot
-        image: assets/img/members/person1.jpg
+        text: Founder / Pilot
+        image: assets/img/members/alejandro.jpg
         url: '#'
       - title: Dylan Ortiz
         text: Pilot
