@@ -98,10 +98,10 @@ sections:
       - title: Dylan Ortiz
         text: Pilot
         image: assets/img/members/person2.jpg
-        url: '#'
+        url: '#'    
       - title: Camilo Acuña
         text: Technical Lead
-        image: assets/img/members/person3.jpg
+        image: assets/img/members/person3.jp
         url: '#'
       - title: Juan Pablo Vallejo
         text: Technical Lead
