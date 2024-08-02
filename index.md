@@ -87,7 +87,7 @@ sections:
         class: btn-light
 
   - type: members.html
-    section_id: members
+    section_id: members    
     title: Our Crew!
     background_style: bg-info text-white
     members:
