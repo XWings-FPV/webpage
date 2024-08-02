@@ -92,7 +92,7 @@ sections:
     background_style: bg-info text-white
     members:
       - title: Alejandro Ojeda
-        text: Founder - Pilot
+        text: Founder / Pilot
         image: assets/img/members/person1.jpg
         url: '#'
       - title: Dylan Ortiz
