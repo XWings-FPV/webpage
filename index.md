@@ -93,59 +93,55 @@ sections:
     members:
       - title: Alejandro Ojeda
         text: Founder / Pilot
-        image: assets/img/members/alejandro.jpg
+        image: assets/img/members/alejandro.JPG
         url: '#'
       - title: Dylan Ortiz
         text: Pilot
-        image: assets/img/members/person2.jpg
+        image: assets/img/members/Dylan4.JPG
         url: '#'    
       - title: Camilo Acuña
         text: Technical Lead
-        image: assets/img/members/person3.jp
+        image: assets/img/members/Camilo5.JPG
         url: '#'
       - title: Juan Pablo Vallejo
         text: Technical Lead
-        image: assets/img/members/person5.jpg
+        image: assets/img/members/Jp1.jpg
         url: '#'
       - title: Johel Prada
         text: Pilot
-        image: assets/img/members/person6.jpg
+        image: assets/img/members/Johel.JPG
         url: '#'
       - title: Jaime Yara
         text: Technical Support
-        image: assets/img/members/person7.jpg
+        image: assets/img/members/Jaime1.JPG
         url: '#'
       - title: Juan Jose Losada Perdomo
         text: Technical Support
-        image: assets/img/members/person7.jpg
+        image: assets/img/members/JJ2.jpg
         url: '#'
       - title: Angel Avendaño
         text: Pilot
-        image: assets/img/members/person7.jpg
-        url: '#'
-      - title: Gustavo Berdugo
-        text: Pilot
-        image: assets/img/members/person7.jpg
+        image: assets/img/members/Angel.JPG
         url: '#'
       - title: Cristian Martin
         text: Pilot
-        image: assets/img/members/person7.jpg
+        image: assets/img/members/Hoffman2.JPG
         url: '#'
       - title: Juseph Useche
         text: Pilot
-        image: assets/img/members/person7.jpg
+        image: assets/img/members/Juseph2.JPG
         url: '#'
       - title: Libardo Carreño
         text: Pilot
-        image: assets/img/members/person7.jpg
+        image: assets/img/members/Libardo.JPG
         url: '#'
       - title: Santiago Cadena
         text: Technical Support
-        image: assets/img/members/person7.jpg
+        image: assets/img/members/Santaigo2.JPG
         url: '#'
       - title: David Santiago Sandoval
         text: Pilot
-        image: assets/img/members/person7.jpg
+        image: assets/img/members/Blanco1.JPG
         url: '#'
 
   - type: timeline.html
