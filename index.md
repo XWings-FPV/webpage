@@ -93,7 +93,7 @@ sections:
     members:
       - title: Alejandro Ojeda
         text: Founder / Pilot
-        image: assets/img/members/alejandro.JPG
+        image: assets/img/members/alejandro.jpg
         url: '#'
       - title: Dylan Ortiz
         text: Pilot
@@ -105,7 +105,7 @@ sections:
         url: '#'
       - title: Juan Pablo Vallejo
         text: Technical Lead
-        image: assets/img/members/Jp1.jpg
+        image: assets/img/members/Jp1.JPG
         url: '#'
       - title: Johel Prada
         text: Pilot
@@ -117,7 +117,7 @@ sections:
         url: '#'
       - title: Juan Jose Losada Perdomo
         text: Technical Support
-        image: assets/img/members/JJ2.jpg
+        image: assets/img/members/JJ2.JPG
         url: '#'
       - title: Angel Avendaño
         text: Pilot
