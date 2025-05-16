@@ -55,27 +55,27 @@ sections:
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
-        icon: 1.jpg
+        icon: unrobot2.jpg
         url: '#'
-      - title: Electrobot
+      - title: Electrobot 2022
         text: This is a very short project description.
-        icon: 2.jpg
+        icon: cali1.jpg
         url: '#'
       - title: MultiGP
         text: This is a very short project description.
-        icon: 3.jpg
+        icon: multigp.jpg
         url: '#'
-      - title: Project 4
+      - title: Universidad Militar
         text: This is a very short project description.
-        icon: 4.jpg
+        icon: militar.jpg
         url: '#'   
-      - title: Project 5
+      - title: USC
         text: This is a very short project description.
-        icon: 5.jpg
+        icon: cali2.jpg
         url: '#'
-      - title: Project 6
+      - title: TV Unal
         text: This is a very short project description.
-        icon: 6.jpg
+        icon: tvunal.jpg
         url: '#'
 
   - type: aside.html
