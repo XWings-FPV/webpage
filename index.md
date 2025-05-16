@@ -60,7 +60,7 @@ sections:
         url: '#'
       - title: Electrobot 2022
         text: This is a very short project description.
-        icon: cali1.jpg
+        icon: cali11.jpg
         url: '#'
       - title: MultiGP
         text: This is a very short project description.
