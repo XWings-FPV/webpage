@@ -149,7 +149,7 @@ sections:
     section_id: timeline
     title: Major Achievements!
     background_style: bg-dark text-primary
-    last_image: assets/img/portfolio/thumbnails/general.png
+    last_image: assets/img/portfolio/thumbnails/allteam.JPG
     actions:
       - image: assets/img/portfolio/thumbnails/firstgen.jpg
         title: >+
@@ -158,7 +158,7 @@ sections:
         text: >-
           We begun with small group of people willing to work hard and make our
           drone skills ready!
-      - image: assets/img/portfolio/thumbnails/militar.jpg
+      - image: assets/img/portfolio/thumbnails/pgp3.jpg
         title: >+
           2023
           An Coaching started
