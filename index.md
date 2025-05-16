@@ -59,32 +59,32 @@ sections:
         #icon: 1.jpg
         url: '#'
       - title: Electrobot 2022
-        text: This is a very short project description.
-        icon: cali11.jpg
+        text: Competition organized by USC, in Cali, Colombia.
+        icon: cali1.jpg
         url: '#'
-      - title: MultiGP
-        text: This is a very short project description.
+      - title: MultiGP GQ
+        text: GQ by MultiGP organized by the local chapter in Bogotá, Colombia.
         icon: multigp.jpg
         url: '#'
       - title: Universidad Militar
-        text: This is a very short project description.
-        icon: militar.jpg
+        text: Competition organized by UMNG in Cajicá, Colombia.
+        icon: militar.JPG
         url: '#'   
       - title: USC
-        text: This is a very short project description.
+        text: Competition in 2024 organized by USC and FlyFPV in Cali, Colombia.
         icon: cali2.jpg
         url: '#'
       - title: TV Unal
-        text: This is a very short project description.
+        text: Webseries episode by Unimedios from UNAL, at Bogotá, Colombia.
         icon: tvunal.jpg
         url: '#'
 
   - type: aside.html
     section_id: aside
-    title: Free Download at Start Bootstrap!
+    title: Watch a video about us!
     actions:
-      - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
+      - title: Watch Now!
+        url: https://www.youtube.com/watch?v=zehUei7lUtA
         class: btn-light
 
   - type: members.html
@@ -92,7 +92,7 @@ sections:
     title: Our Crew!
     background_style: bg-info text-white
     members:
-      - title: Alejandro Ojeda
+      - title: Alejandro Ojeda Olarte
         text: Founder / Pilot
         image: assets/img/members/alejandro.jpg
         url: '#'
@@ -153,11 +153,11 @@ sections:
     actions:
       - image: assets/img/portfolio/thumbnails/1.jpg
         title: >+
-          2017-2018
+          2018-2019
           **Humble Beginnings**
         text: >-
           We begun with small group of people willing to work hard and make our
-          teaching skills worth , in front of all others!
+          drone skills ready!
       - image: assets/img/portfolio/thumbnails/2.jpg
         title: >+
           November 2019
