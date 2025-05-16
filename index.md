@@ -85,6 +85,7 @@ sections:
     actions:
       - title: Watch Now!
         url: https://www.youtube.com/watch?v=zehUei7lUtA
+        #Interview with DBI https://www.facebook.com/unal.ing.bog/videos/noticiero-dbi/368042564736479/
         class: btn-light
 
   - type: members.html
@@ -173,16 +174,12 @@ sections:
       Ready to start your next project with us? Give us a call or send us an email
       and we will get back to you as soon as possible!
     actions:
-    - title: +1 (202) 555-014
-      icon: bi-telephone-fill
     - title: E-Mail
       icon: bi-envelope-fill
       url: mailto:xwingsfpv@gmail.com
     - title: Instagram
       icon: bi-instagram
       url: https://www.instagram.com/xwingsfpv/
-    - title: Facebook
-      icon: bi-facebook
-      url: '#'
+
 
 ---
