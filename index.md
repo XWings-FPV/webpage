@@ -55,7 +55,8 @@ sections:
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
-        icon: unrobot2.jpg
+        #icon: unrobot2.jpg
+        icon: 1.jpg
         url: '#'
       - title: Electrobot 2022
         text: This is a very short project description.
