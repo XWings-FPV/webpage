@@ -149,16 +149,16 @@ sections:
     section_id: timeline
     title: Major Achievements!
     background_style: bg-dark text-primary
-    last_image: assets/img/timeline-end.png
+    last_image: assets/img/portfolio/thumbnails/general.png
     actions:
-      - image: assets/img/portfolio/thumbnails/1.jpg
+      - image: assets/img/portfolio/thumbnails/firstgen.jpg
         title: >+
           2018-2019
           **Humble Beginnings**
         text: >-
           We begun with small group of people willing to work hard and make our
           drone skills ready!
-      - image: assets/img/portfolio/thumbnails/2.jpg
+      - image: assets/img/portfolio/thumbnails/militar.jpg
         title: >+
           November 2019
           An Coaching started
@@ -168,7 +168,7 @@ sections:
 
   - type: contact.html
     section_id: contacts
-    title: Let's Get In Touch!
+    title: Interested in Joining the team?
     text: >-
       Ready to start your next project with us? Give us a call or send us an email
       and we will get back to you as soon as possible!
@@ -177,10 +177,10 @@ sections:
       icon: bi-telephone-fill
     - title: E-Mail
       icon: bi-envelope-fill
-      url: mailto:contact@yourwebsite.com
-    - title: Twitter
-      icon: bi-twitter
-      url: '#'
+      url: mailto:xwingsfpv@gmail.com
+    - title: Instagram
+      icon: bi-instagram
+      url: https://www.instagram.com/xwingsfpv/
     - title: Facebook
       icon: bi-facebook
       url: '#'
