@@ -11,7 +11,7 @@ sections:
 - type: google_looker.html
   section_id: dashboard
   title: Live Racing Dashboard
-  url: https://lookerstudio.google.com/reporting/4854c5ce-c66f-4729-80ca-72f6d61f57a0
+  url: https://lookerstudio.google.com/embed/reporting/4854c5ce-c66f-4729-80ca-72f6d61f57a0/page/ixzuD
   text: >
     Explore real-time telemetry and race performance from **Liftoff**. 
     Our custom automation engine processes race data via Google APIs to provide deep insights into pilot performance and track difficulty.
@@ -35,7 +35,7 @@ sections:
 - type: address.html
   section_id: contact
   title: Lugar de Reunión 
-  map: https://maps.app.goo.gl/wdATEFFUPBfPUNDb9
+  map: https://maps.google.com/maps?q=Ave%20Cra%2030%20%2345-3,%20Bogot%C3%A1,%20Colombia&t=&z=15&ie=UTF8&iwloc=&output=embed
   address:
     title: Ubicación
     text: >
