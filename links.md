@@ -31,6 +31,7 @@ sections:
     Our solution is an affordable, innovative prototype designed to extend battery health.
 
     [View Prototype on LinkedIn](https://es.linkedin.com/posts/dacunar_x-wings-btl-a4-v10-adaptador-para-cargador-activity-7195534585336582144-T63z){: .btn .btn-outline-info .mt-4}
+    [Follow X-Wings on GitHub](https://github.com/XWings-FPV){: .btn .btn-outline-light .mt-4 .ms-lg-3}
 
 - type: address.html
   section_id: contact

@@ -1,4 +1,5 @@
-.pagehead {
+// Only apply compact styling to subpage headers
+header.pagehead {
     height: 10em !important;
     min-height: 10em !important;
     padding-top: 2rem !important;

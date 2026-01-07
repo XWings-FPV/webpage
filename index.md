@@ -162,7 +162,7 @@ sections:
       - image: assets/img/portfolio/thumbnails/pgp3.jpg
         title: >+
           2023
-          An Coaching started
+          Coaching Started
         text: >-
           We started to gather like minded people and started our stategies
           and future plans to them. As a result , interested people joined us!
