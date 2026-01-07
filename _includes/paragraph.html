@@ -1,10 +1,20 @@
-<section id="{{ section.section_id }}" class="page-section-smaller {{ section.background_style }}">
+<section id="{{ section.section_id }}"
+  class="page-section {{ section.background_style | default: 'bg-light' }} {{ section.extra_class }}">
   <div class="container px-4 px-lg-5">
-    <h2 class="text-center mt-0">{{ section.title }}</h2>
+    {% if section.title %}
+    <h2 class="text-center mt-0 {% if section.premium_title %}section-title-premium{% endif %}">{{ section.title }}</h2>
+    {% if section.premium_title %}
+    <div class="divider-premium"></div>
+    {% else %}
     <hr class="divider border border-primary border-2">
+    {% endif %}
+    {% endif %}
+
     <div class="row justify-content-center">
-      <div class="col-md-auto {{ section.text_style | default: "text-muted" }}">
-        {{ section.text | newline_to_br | markdownify }}
+      <div class="col-lg-10 {{ section.text_style | default: 'text-muted' }}">
+        <div class="{% if section.glass %}glass-panel{% endif %}">
+          {{ section.text | markdownify }}
+        </div>
       </div>
     </div>
     {% include actions.html actions=section.actions %}

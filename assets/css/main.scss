@@ -1,12 +1,9 @@
----
----
-
-@charset "utf-8";
+--- --- @charset "utf-8";
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "member-box",
-        "timeline",
-        "page",
-        "icons"
+@import "member-box",
+"timeline",
+"page",
+"icons",
+"custom-styles"
 ;

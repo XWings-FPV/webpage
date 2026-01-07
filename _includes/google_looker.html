@@ -1,0 +1,26 @@
+<section id="{{ section.section_id }}" class="page-section {{ section.background_style | default: 'bg-light' }}">
+    <div class="container px-4 px-lg-5">
+        <div class="row justify-content-center">
+            <div class="col-lg-11 text-center">
+                {% if section.title %}
+                <h2 class="mt-0 section-title-premium">{{ section.title }}</h2>
+                <div class="divider-premium"></div>
+                {% endif %}
+                {% if section.text %}
+                <div class="mb-5 {{ section.text_style | default: 'text-muted' }} lead">
+                    {{ section.text | markdownify }}
+                </div>
+                {% endif %}
+
+                <div class="looker-container">
+                    <div style="position: relative; padding-top: 56.25%;">
+                        <iframe src="{{ section.url | replace: '/reporting/', '/embed/reporting/' }}" frameborder="0"
+                            style="position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; border: none;"
+                            allowfullscreen>
+                        </iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
