@@ -10,30 +10,6 @@ header.pagehead {
     }
 }
 
-// Fixed dimensions for Member and Timeline icons to prevent them being too large
-.member-box img {
-    width: 200px !important;
-    height: 200px !important;
-    object-fit: cover !important;
-    border-radius: 50% !important;
-    margin-bottom: 1.5rem;
-}
-
-.timeline>li .timeline-image {
-    width: 150px !important;
-    height: 150px !important;
-    margin-left: -75px !important; // Half of width to center it on the line
-}
-
-@media(max-width: 767px) {
-    .timeline>li .timeline-image {
-        width: 80px !important;
-        height: 80px !important;
-        margin-left: 0 !important;
-        left: 0 !important;
-    }
-}
-
 .glass-panel {
     background: rgba(255, 255, 255, 0.05);
     backdrop-filter: blur(12px);
