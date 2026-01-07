@@ -20,8 +20,6 @@ sections:
   section_id: additional-projects
   title: Featured Projects
   background_style: bg-dark text-white
-  premium_title: true
-  glass: true
   text_style: text-white-50
   text: >+
     ### 1S LiPo Battery Charger Adapter
